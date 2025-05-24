@@ -10,7 +10,7 @@ public class Aluno extends Pessoa {
 // Construtor de Objeto Vazio
 
     public Aluno() {
-        this(0, "", 0, "", 0.0);
+        this(0, "", 0, "", 0);
     }
 // Construtor com parâmetro
 
